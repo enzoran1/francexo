@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.contain{
+
+    text-align: center;
+    margin-top: 200px;
+
+
+}
+
+.img2{
+    position: relative;
+    top: 100px;
+    right: 200px;
+}
+.img3{
+    position: relative;
+    top: 50px;
+    right: 170px;
+    
+}
+
+.img4{
+    position: relative;
+    right: 200px;
+    bottom: 30px;
+}
+
+.img5{
+    position: relative;
+    right: 230px;
+    bottom: 100px;
+}
+
+.img6{
+    position: relative;
+    right: 340px;
+    top: 75px;
+}
+
+.img7{
+    position: relative;
+    right: 580px;
+    top: 170px;
+}

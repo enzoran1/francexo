@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.contain{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr ;
+    grid-template-areas:
+    "img12 img10 img10 "
+    "img9 img8 img7 "
+    "img9 img5 img4"
+    "img3 img2 img1";
+    width: 1000px;
+
+}
+
+.contain > .img12{
+    grid-area: img12;
+    width: 100%;
+}
+
+.contain > .img10{
+    grid-area: img10;
+    width: 100%;
+}
+.contain > .img9{
+    grid-area: img9;
+    width: 100%;
+}
+.contain > .img8{
+    grid-area: img8;
+    width: 100%;
+}
+.contain > .img7{
+    grid-area: img7;
+    width: 100%;
+}
+
+.contain > .img5{
+    grid-area: img5;
+    width: 100%;
+}
+
+.contain > .img4{
+    grid-area: img4;
+    width: 100%;
+}
+
+.contain > .img3{
+    grid-area: img3;
+    width: 100%;
+}
+.contain > .img2{
+    grid-area: img2;
+    width: 100%;
+}
+.contain > .img1{
+    grid-area: img1;
+    width: 100%;
+}
+
+
+
+    
+    
+
+

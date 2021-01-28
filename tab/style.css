@@ -1,0 +1,35 @@
+.table{
+    box-shadow: 5px 5px 5px grey;
+    width: 500px;
+    border: solid 4px black;
+}
+
+.thead th{
+    border: solid 1px black;
+    text-align: right;
+    background: linear-gradient(black, grey);
+    color: white;
+    text-shadow: 3px 3px 3px black;
+}
+
+.tbody td{
+    text-align: left;
+    border: 1px solid black;
+    
+}
+
+.tbody tr{
+    background-color:#1d91d4a1;
+}
+.tbody tr:hover{
+    background-color: gray;
+}
+
+#size-th{
+    width: 200px;
+}
+
+#td-right{
+
+    text-align: right;
+}
